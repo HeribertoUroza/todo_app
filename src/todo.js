@@ -1,4 +1,3 @@
-import React from 'react'
 
 const valProp = (prop, propName, propType) => {
     if (typeof prop !== propType) {
